@@ -1,0 +1,7 @@
+# config.toml
+[llm]
+model = ""  # The LLM model to use
+base_url = ""      # API endpoint URL
+api_key = "" # Your API key
+max_tokens = 8192                              # Maximum number of tokens in the response
+temperature = 0.0                              # Controls randomness
